@@ -94,8 +94,8 @@ A desktop-based GUI application for restaurant billing, customer management, and
 - Web version or cloud integration
 
 
-```Thanks and Regards,
+```Thanks and Regards ❤️ ```
 
-Abdullah Jaffrey``` 
+```Abdullah Jaffrey``` 
 
 ```abdullahjafri8@gmail.com```
